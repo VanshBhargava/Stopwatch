@@ -5,6 +5,7 @@
     font-family: 'Source Sans Pro', sans-serif;
 }
 .container{
+    background-image: url(galaxy.jpg);
     background-color: #222242;
     height: 100vh;
     width: 100%;
